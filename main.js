@@ -11,5 +11,5 @@ const puppeteer = require('puppeteer');
     const title = await page.title();
     console.info(`The title is: ${title}`);
   
-    //await browser.close();
+    await browser.close();
   })();
