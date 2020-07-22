@@ -12,6 +12,6 @@ module.exports = {
         //imdb
         top: 'https://www.imdb.com/chart/top',
         bottom: 'https://www.imdb.com/chart/bottom',
-        
+        popular: 'https://www.imdb.com/chart/moviemeter'
     }
 }

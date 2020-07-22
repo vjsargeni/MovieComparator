@@ -20,6 +20,7 @@ let movies =[];
     if (url === ex.urls.top){
       numOfMovies = 250
     }
+    else if (url === ex.urls.popular)
 
     for(var i = 1; i <= numOfMovies; i++){
       
